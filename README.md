@@ -1,3 +1,3 @@
-# Python 3 CheetSheet
+# Python 3 CheatSheet
 
-Python 3 CheetSheet
+Python 3 CheatSheet
